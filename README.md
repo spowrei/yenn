@@ -1,0 +1,10 @@
+#BASLIK
+
+
+
+YAZI
+yazi
+
+
+
+#SONLUK
